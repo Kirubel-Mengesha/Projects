@@ -89,7 +89,7 @@ const SignUp = () => {
         }}
       >
         <Typography variant="h4" component="h2" gutterBottom>
-          Sign Up
+          123
         </Typography>
         <form onSubmit={handleSubmit}>
           {error && <Typography color="error">{error}</Typography>}
